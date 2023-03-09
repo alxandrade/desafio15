@@ -1,7 +1,7 @@
 {
-  "name": "segunda-entrega",
+  "name": "desafio15",
   "version": "1.0.0",
-  "description": "Segunda Entrega Proyecto BackEnd",
+  "description": "Cluster y Proxy",
   "type": "module",
   "main": "./src/app.js",
   "scripts": {
